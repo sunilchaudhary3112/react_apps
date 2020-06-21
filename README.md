@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Recipes App in React 
 
-<center><a href="https://raw.githubusercontent.com/sunilchaudhary3112/react_apps/master/recipe_app_demo.JPG" /></a></center>
+<center><img src="https://raw.githubusercontent.com/sunilchaudhary3112/react_apps/master/recipe_app_demo.JPG" /></center>
 
 ## Features
 - Featured/Random Recipes 
